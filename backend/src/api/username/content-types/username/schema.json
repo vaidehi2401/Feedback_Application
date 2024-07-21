@@ -1,0 +1,28 @@
+{
+  "kind": "collectionType",
+  "collectionName": "usernames",
+  "info": {
+    "singularName": "username",
+    "pluralName": "usernames",
+    "displayName": "PFeedback",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "feedback": {
+      "type": "text"
+    },
+    "From": {
+      "type": "string"
+    },
+    "FType": {
+      "type": "string"
+    },
+    "Name": {
+      "type": "string"
+    }
+  }
+}

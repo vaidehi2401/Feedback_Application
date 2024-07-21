@@ -1,0 +1,85 @@
+.line1{
+    height: 4px;
+    width: 150px;
+    background-color: #569ADB;
+    margin-left: 45%;
+}
+.heading1{
+    text-align: center;
+    padding-top: 15px;
+}
+.messages{
+    height: 100%;
+    width: 400px;
+    background-color: #569ADB;
+    align-items: left;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px #aaaaaa;
+    margin-top: 30px;
+    cursor: pointer;
+    margin-left: 0;
+    overflow-y: auto;
+}
+.card1m{
+    height: 90px;
+    width: 250px;
+    border-radius: 10px;
+    margin-top: 30px;
+    background-color: white;
+   margin-bottom: 30px;
+    margin-left: 70px ;  
+}
+.textm{
+margin-left: 5px;
+margin-right: 5px;
+}
+.timem{
+ margin-left: 200px;
+ margin-bottom: 10px;
+}
+.containerm{
+    display: inline-flex;
+    
+}
+.selectedC{
+    box-shadow: 1px 1px 5px #aaaaaa;
+    width: 400px;
+    background-color: #569ADB;
+    color: white;
+    margin-left: 200px;
+    margin-top: 100px;
+    border-radius: 10px;
+}
+.cross{
+    color: black;
+    height: 20px;
+   cursor: pointer;
+   margin-left: 94%;
+   margin-top: 5px;
+}
+.date{
+    margin-left: 41%;
+}
+.selectedN{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.sType{
+    margin-left: 20px;
+    margin-top: 5px;
+}
+.sfeed{
+    margin-left: 20px;
+    margin-top: 5px;
+}
+.stime{
+    margin-left: 88%;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.layout{
+    height: 100%;
+}
+
